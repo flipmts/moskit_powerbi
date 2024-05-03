@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "moskit_api"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "05f87d85-2853-4bee-bcef-6a1a74764156"
+  }
+}

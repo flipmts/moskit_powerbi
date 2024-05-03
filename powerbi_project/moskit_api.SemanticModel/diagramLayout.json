@@ -1,0 +1,179 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 785.773639102766,
+            "y": 313.86414653856491
+          },
+          "nodeIndex": "fNegocios",
+          "nodeLineageTag": "ccb63641-6fc9-4636-8da6-7bb7d90ad4aa",
+          "size": {
+            "height": 439.43629343629345,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 784.227693174109,
+            "y": 0
+          },
+          "nodeIndex": "dAtividades",
+          "nodeLineageTag": "d4a5e406-1f18-41d0-9d2b-30266cadb8a1",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 275.59845559845576,
+            "y": 24.141112661953343
+          },
+          "nodeIndex": "dAtividades_Contatos",
+          "nodeLineageTag": "95a46657-b5f0-49a5-80ff-d618b69b1f8b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 272.6487066536651,
+            "y": 459.13471987878472
+          },
+          "nodeIndex": "dContatos",
+          "nodeLineageTag": "c0f19dc9-2091-42eb-9a3f-1126cbfeb056",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1229.9700030909614,
+            "y": 786.081081081081
+          },
+          "nodeIndex": "dFase",
+          "nodeLineageTag": "1ec4d072-22c2-4d92-819f-7eeb2ffc6b62",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1222.34838146934,
+            "y": 301.35135135135135
+          },
+          "nodeIndex": "dFase_Negocios",
+          "nodeLineageTag": "02762b7c-ac61-4d1d-8f92-2b301544ee78",
+          "size": {
+            "height": 400.2972972972974,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 822.68042780138649,
+            "y": 824.66063571877532
+          },
+          "nodeIndex": "dMotivosPerda",
+          "nodeLineageTag": "2e310b44-be9d-42e3-9c02-0ae143c6e132",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 196.54915367011222,
+            "y": 756.04247104247122
+          },
+          "nodeIndex": "dProduto",
+          "nodeLineageTag": "fffd3e1c-2275-4058-a0e4-14ed167dafe0",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 495.75378687474551,
+            "y": 741.138996138996
+          },
+          "nodeIndex": "dProdutos_Negocios",
+          "nodeLineageTag": "9a42fe69-5c88-4431-a87e-2e2d56bcad2f",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 486.27116139212023,
+            "y": 204.38718349466649
+          },
+          "nodeIndex": "dResponsaveis",
+          "nodeLineageTag": "703605da-f031-439e-9312-d9af1557808b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1124.0858332067914,
+            "y": 10.916780788813124
+          },
+          "nodeIndex": "dCalendario",
+          "nodeLineageTag": "6df166be-7a27-4b09-a316-849ff33ef2b8",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 29.729729729729712
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "3f8873d7-f9e2-4e7c-8ea2-50ea8411306d",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 626.972972972973
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 74,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
